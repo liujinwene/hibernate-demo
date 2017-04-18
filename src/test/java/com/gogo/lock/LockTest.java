@@ -18,7 +18,7 @@ import org.springframework.transaction.TransactionStatus;
 import org.springframework.transaction.support.TransactionCallback;
 import org.springframework.transaction.support.TransactionTemplate;
 
-import com.gogo.CoreServerApp;
+import com.gogo.base.core.CoreServerApp;
 import com.gogo.base.lock.constants.CoordinationLocks;
 import com.gogo.base.lock.service.GenerateLockService;
 import com.gogo.base.utils.SpringContextUtil;

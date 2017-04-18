@@ -1,4 +1,4 @@
-package com.gogo;
+package com.gogo.base.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
